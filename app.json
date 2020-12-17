@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nimber_expo_test",
-    "slug": "nimber_expo_test",
+    "name": "nimbertest",
+    "slug": "nimbertest",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
